@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "931046403515",
+    "firebase_url": "https://euro-chat.firebaseio.com",
+    "project_id": "euro-chat",
+    "storage_bucket": "euro-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931046403515:android:38f66e84d98f6472",
+        "android_client_info": {
+          "package_name": "org.reactjs.native.example.eurochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931046403515-nlcao0pqqiue1j7lbuj0m3ff5n8ai4u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.reactjs.native.example.eurochat",
+            "certificate_hash": "788edeca079775b0a7481fc494d0ec399aabae66"
+          }
+        },
+        {
+          "client_id": "931046403515-7j50lj74fndbdvn4n2rmug5ooci4145n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WdZm780F0HpguXKS-XUF_Kpu55BRPUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931046403515-7j50lj74fndbdvn4n2rmug5ooci4145n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "931046403515-8aqon5e384lhc8g52micfi8l6j8ggeuk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.eurochat"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

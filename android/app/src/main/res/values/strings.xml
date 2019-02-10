@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">eurochat</string>
+    <string name="fb_app_id">298313574083626</string>
+    <string name="fb_login_protocol_scheme">fb298313574083626</string>
+</resources>
