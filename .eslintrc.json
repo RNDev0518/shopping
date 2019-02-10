@@ -1,0 +1,54 @@
+{
+  "env": {
+    "es6": true
+  },
+  "rules": {
+    "no-undef": "error",
+    "no-console": "off",
+    "no-alert": "off"
+  },
+  "parserOptions": {
+    "ecmaVersion": 9,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
+  },
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "blockBindings": true,
+    "classes": true,
+    "defaultParameters": true,
+    "destructuring": true,
+    "forOf": true,
+    "generators": true,
+    "modules": true,
+    "objectLiteralComputedProperties": true,
+    "objectLiteralDuplicateProperties": true,
+    "objectLiteralShorthandMethods": true,
+    "objectLiteralShorthandProperties": true,
+    "regexUFlag": true,
+    "regexYFlag": true,
+    "restParams": true,
+    "spread": true,
+    "superInFunctions": true,
+    "templateStrings": true,
+    "unicodeCodePointEscapes": true,
+    "globalReturn": true
+  },
+  "parser": "babel-eslint",
+  "globals": {
+    "require": true,
+    "console": true,
+    "alert": true,
+    "fetch": true,
+    "clearTimeout": true,
+    "clearInterval": true,
+    "setTimeout": true,
+    "setInterval": true,
+    "navigator": true,
+    "Coordinates": true,
+    "Position": true
+  }
+}
